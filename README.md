@@ -14,4 +14,4 @@
 
 $cd gojekhappy
 
-$php penikmat.php
+$php nikmat.php
